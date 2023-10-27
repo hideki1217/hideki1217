@@ -1,4 +1,4 @@
-# Welcome to my profile :fire:
+# :fire: Welcome to my profile 
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hideki1217&layout=compact&theme=tokyonight"/>
